@@ -3,3 +3,6 @@ history -a
 echo hello nano
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+touch castle.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
