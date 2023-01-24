@@ -75,3 +75,4 @@ history -a
 bash castle.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+git add .
