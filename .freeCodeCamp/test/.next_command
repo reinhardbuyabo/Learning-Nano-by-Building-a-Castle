@@ -16,3 +16,6 @@ bash castle.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
 nano castle.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+fg
